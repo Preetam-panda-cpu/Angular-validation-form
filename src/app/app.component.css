@@ -1,0 +1,24 @@
+.container {
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    margin-left: 714px;
+}
+input#fname {
+    margin-bottom: 9px;
+}
+textarea#subject {
+    margin-bottom: 13px;
+}
+h1{
+    position: relative;
+    margin-left: 693px;
+    margin-top: 25px;
+    font-size: 30px;
+    font-weight: 600;
+    border-bottom: 1px solid #111;
+    width: 229px;
+}
+.gender{
+    padding-bottom: 15px;
+}
